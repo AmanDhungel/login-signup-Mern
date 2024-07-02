@@ -9,7 +9,8 @@ const Main = () => {
 	return (
 		<div className={styles.main_container}>
 			<nav className={styles.navbar}>
-				<h1>fakebook</h1>
+				<h1>logged In</h1>
+				<h2></h2>
 				<button className={styles.white_btn} onClick={handleLogout}>
 					Logout
 				</button>
