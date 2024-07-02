@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-<img src="https://github.com/AmanDhungel/login-signup-Mern/blob/master/client/public/login-register-3.png" alt="project-login-amandhungel" width="100" height="100"/>
+<img src="https://github.com/AmanDhungel/login-signup-Mern/blob/master/client/public/login-register-3.png" alt="project-login-amandhungel" width="800" height="600"/>
 <br />
 <!-- TABLE OF CONTENTS -->
 <details>
