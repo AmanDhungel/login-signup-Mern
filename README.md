@@ -37,10 +37,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<div style="display: flex; flex-wrap: wrap;">
+  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/>
  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" alt="css3" width="40" height="40"/>
+</div>
 
 
 <!-- GETTING STARTED -->
