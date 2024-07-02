@@ -56,6 +56,23 @@ There are Two Files Client and server
 
 go into both folder from different terminals
 
+### Installation
+
+2. Clone the repo
+   ```sh
+   git clone https://github.com/AmanDhungel/login-signup-Mern.git
+   ```
+3. Install NPM packages
+ <p>Click Here (<a href="#Prerequisites">Follow this steps</a>)</p>
+
+4. Enter your API in `.env` in server
+   ```js
+   DB = 'ENTER YOUR DB connection string';
+   PORT = Your Port
+   JWTPRIVATEKEY = YOURPRIVATEKEY
+   ```
+
+
 ### Prerequisites
 <a id="Prerequisites"></a>
 This is an example of how to list things you need to use the software and how to install them.
@@ -75,21 +92,6 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 
-### Installation
-
-2. Clone the repo
-   ```sh
-   git clone https://github.com/AmanDhungel/login-signup-Mern.git
-   ```
-3. Install NPM packages
- <p>Click Here (<a href="#Prerequisites">Follow this steps</a>)</p>
-
-4. Enter your API in `.env` in server
-   ```js
-   DB = 'ENTER YOUR DB connection string';
-   PORT = Your Port
-   JWTPRIVATEKEY = YOURPRIVATEKEY
-   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
