@@ -37,7 +37,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![alt text](https://github.com/AmanDhungel/login-signup-Mern/tree/master/client/public/login-register-3.png)
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 
 <!-- GETTING STARTED -->
