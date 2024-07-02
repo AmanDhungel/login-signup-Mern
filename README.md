@@ -8,7 +8,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
+## Login-Register MERN Project By Aman Dhungel
 <!-- PROJECT LOGO -->
 <img src="https://github.com/AmanDhungel/login-signup-Mern/blob/master/client/public/login-register-3.png" alt="project-login-amandhungel" width="800" height="400"/>
 <br />
