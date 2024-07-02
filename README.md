@@ -38,10 +38,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AmanDhungel/login-signup-Mern/client/public/login-register-3.png)
-* [![React][React.js]][[React-url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s)]
+[![Product Name Screen Shot][product-screenshot]](https://github.com/AmanDhungel/login-signup-Mern/tree/master/client/public/login-register-3.png)
+* [![React][React.js]][[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s]]
 * [![Node][Node.js]][[Node-url](https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png)]
->>>>>>> 72822c6002997b614fd498849cba1872d47d9442
 * [![Express][Express.js]][Express-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Mongoose][Mongoose]][Mongoose-url]
