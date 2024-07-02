@@ -29,11 +29,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -42,20 +38,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./client/public/login-register-3.png)
+[![Login Page][Login-screenshot]](https://github.com/AmanDhungel/login-signup-Mern/client/public/login-register-3.png)
 
 
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
 Login - Page Build With
 
-* [![React][React.js]][React-url]
-* [![Node][Node.js]][Node-url]
+* [![React][React.js]][[React-url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s)]
+* [![Node][Node.js]][[Node-url](https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png)]
 * [![Express][Express.js]][Express-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Mongoose][Mongoose]][Mongoose-url]
@@ -100,7 +93,7 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/AmanDhungel/login-signup-Mern.git
    ```
 3. Install NPM packages
- <p>(<a href="#Prerequisites">Follow this steps</a>)</p>
+ <p>Click Here (<a href="#Prerequisites">Follow this steps</a>)</p>
 
 4. Enter your API in `.env` in server
    ```js
