@@ -38,11 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![alt text](https://github.com/AmanDhungel/login-signup-Mern/tree/master/client/public/login-register-3.png)
-<img src="https://github.com/AmanDhungel/login-signup-Mern/tree/master/client/public/login-register-3.png" style={width: 100px; height: 100px} alt="image" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" style={width: 100px; height: 100px} alt="image" />
-<img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" style={width: 100px; height: 100px} alt="image" />
-<img src="https://github.com/AmanDhungel/login-signup-Mern/tree/master/client/public/login-register-3.png" style={width: 100px; height: 100px} alt="image" />
-<img src="https://github.com/AmanDhungel/login-signup-Mern/tree/master/client/public/login-register-3.png" style={width: 100px; height: 100px} alt="image" />
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
