@@ -29,15 +29,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-<<<<<<< HEAD
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-=======
-    <li><a href="#contact">Contact</a></li>
->>>>>>> 72822c6002997b614fd498849cba1872d47d9442
   </ol>
 </details>
 
@@ -46,28 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<<<<<<< HEAD
-[![Product Name Screen Shot][product-screenshot]](./client/public/login-register-3.png)
-
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
-[![Login Page][Login-screenshot]](https://github.com/AmanDhungel/login-signup-Mern/client/public/login-register-3.png)
-
-
->>>>>>> 72822c6002997b614fd498849cba1872d47d9442
-
-
-
-### Built With
-Login - Page Build With
-
-<<<<<<< HEAD
-* [![React][React.js]][React-url]
-* [![Node][Node.js]][Node-url]
-=======
+[![Product Name Screen Shot][product-screenshot]](https://github.com/AmanDhungel/login-signup-Mern/client/public/login-register-3.png)
 * [![React][React.js]][[React-url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s)]
 * [![Node][Node.js]][[Node-url](https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png)]
 >>>>>>> 72822c6002997b614fd498849cba1872d47d9442
@@ -78,7 +49,6 @@ Login - Page Build With
 * [![React Router][React Router]][React Router-url]
 * [![React Hook Form][React Hook Form]][React Hook Form-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -115,11 +85,7 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/AmanDhungel/login-signup-Mern.git
    ```
 3. Install NPM packages
-<<<<<<< HEAD
- <p>(<a href="#Prerequisites">Follow this steps</a>)</p>
-=======
  <p>Click Here (<a href="#Prerequisites">Follow this steps</a>)</p>
->>>>>>> 72822c6002997b614fd498849cba1872d47d9442
 
 4. Enter your API in `.env` in server
    ```js
@@ -138,9 +104,9 @@ your website
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Aman Dhungel - (https://twitter.com/dhungel_aman)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: (https://github.com/AmanDhungel/login-signup-Mern)
 
 
 
