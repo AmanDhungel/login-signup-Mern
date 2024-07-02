@@ -58,6 +58,9 @@ go into both folder from different terminals
 
 ### Installation
 
+2. SetUp the local folder in your computer
+   Login folder
+   
 2. Clone the repo
    ```sh
    git clone https://github.com/AmanDhungel/login-signup-Mern.git
